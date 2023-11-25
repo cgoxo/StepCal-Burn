@@ -1,4 +1,4 @@
-# calorie-burn-android
+# StepCal-Burn
 Utilizing Step-Detector-Sensor to collect data values from Android devices. 
 
 Store data locally using SqlLiteDatabase and reflect on the app itself using listView 
